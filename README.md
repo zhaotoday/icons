@@ -1,5 +1,6 @@
 #### 网站
 - [vectorlogo](https://www.vectorlogo.zone/)
+- [iconify](https://icon-sets.iconify.design/)
 
 #### 开源
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
