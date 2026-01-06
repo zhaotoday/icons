@@ -2,6 +2,7 @@
 - [vectorlogo](https://www.vectorlogo.zone/)
 
 #### 开源
+- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
 - [dicebear](https://github.com/dicebear/dicebear)
 - [browser-logos](https://github.com/alrra/browser-logos)
 - [simple-icons](https://github.com/simple-icons/simple-icons)
